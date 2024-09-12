@@ -1,2 +1,2 @@
 # Caixa-Eletronico
- Simulação de saque de uma caixa de banco
+ Saque em caixa eletrônico em PHP
